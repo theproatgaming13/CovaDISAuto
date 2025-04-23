@@ -1,0 +1,6 @@
+@CovaDISAutoAPI.API_HostAddress = http://localhost:5272
+
+GET {{CovaDISAutoAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
