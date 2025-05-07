@@ -5,6 +5,14 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.API", "CovaDISAutoAPI.API\CovaDISAutoAPI.API.csproj", "{89A4859D-D05B-4B91-8CD1-2625377B6EB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Aplication", "CovaDISAutoAPI.Aplication\CovaDISAutoAPI.Aplication.csproj", "{8B47E511-D193-40DD-8A82-88A09ADAF86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Domain", "CovaDISAutoAPI.Domain\CovaDISAutoAPI.Domain.csproj", "{0513AA16-AEC9-4C16-9F61-7971FDBDC0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Shared", "CovaDISAutoAPI.Infrastructure\CovaDISAutoAPI.Shared.csproj", "{C4C0E967-69E2-4DFF-B343-E7CED811E343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Client", "CovaDISAutoAPI.client\CovaDISAutoAPI.Client.csproj", "{99089C7B-EC52-4847-99EE-6285562080CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{89A4859D-D05B-4B91-8CD1-2625377B6EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A4859D-D05B-4B91-8CD1-2625377B6EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A4859D-D05B-4B91-8CD1-2625377B6EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B47E511-D193-40DD-8A82-88A09ADAF86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B47E511-D193-40DD-8A82-88A09ADAF86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B47E511-D193-40DD-8A82-88A09ADAF86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B47E511-D193-40DD-8A82-88A09ADAF86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0513AA16-AEC9-4C16-9F61-7971FDBDC0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0513AA16-AEC9-4C16-9F61-7971FDBDC0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0513AA16-AEC9-4C16-9F61-7971FDBDC0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0513AA16-AEC9-4C16-9F61-7971FDBDC0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C0E967-69E2-4DFF-B343-E7CED811E343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C0E967-69E2-4DFF-B343-E7CED811E343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C0E967-69E2-4DFF-B343-E7CED811E343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C0E967-69E2-4DFF-B343-E7CED811E343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99089C7B-EC52-4847-99EE-6285562080CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99089C7B-EC52-4847-99EE-6285562080CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99089C7B-EC52-4847-99EE-6285562080CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99089C7B-EC52-4847-99EE-6285562080CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
