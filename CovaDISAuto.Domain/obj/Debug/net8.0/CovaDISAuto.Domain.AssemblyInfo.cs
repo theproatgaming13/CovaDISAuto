@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CovaDISAuto.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c62daf718c09c33729c9130ab2204ae6fc3b64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3fd488b9532dc77db6ac29494344b884c34f44")]
 [assembly: System.Reflection.AssemblyProductAttribute("CovaDISAuto.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CovaDISAuto.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
