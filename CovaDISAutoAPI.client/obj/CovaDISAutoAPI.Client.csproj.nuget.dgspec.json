@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mokou\\source\\repos\\CovaDISAuto\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj": {}
+    "C:\\Users\\Mokou\\Documents\\GitHub\\CovaDISAutoreal\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mokou\\source\\repos\\CovaDISAuto\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj": {
+    "C:\\Users\\Mokou\\Documents\\GitHub\\CovaDISAutoreal\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mokou\\source\\repos\\CovaDISAuto\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Mokou\\Documents\\GitHub\\CovaDISAutoreal\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj",
         "projectName": "CovaDISAutoAPI.Client",
-        "projectPath": "C:\\Users\\Mokou\\source\\repos\\CovaDISAuto\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj",
+        "projectPath": "C:\\Users\\Mokou\\Documents\\GitHub\\CovaDISAutoreal\\CovaDISAutoAPI.client\\CovaDISAutoAPI.Client.csproj",
         "packagesPath": "C:\\Users\\Mokou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mokou\\source\\repos\\CovaDISAuto\\CovaDISAutoAPI.client\\obj\\",
+        "outputPath": "C:\\Users\\Mokou\\Documents\\GitHub\\CovaDISAutoreal\\CovaDISAutoAPI.client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

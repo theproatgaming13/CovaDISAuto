@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CovaDISAutoAPI.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2201a4c750f04f1b836d891831eaecbe0775015a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cea70ade2c8ff29536445e5cdf44b83a4cead92d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CovaDISAutoAPI.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CovaDISAutoAPI.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
