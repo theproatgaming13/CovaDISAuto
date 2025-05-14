@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj": {}
+    "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAuto.Application\\CovaDISAuto.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj": {
+    "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAuto.Application\\CovaDISAuto.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
-        "projectName": "CovaDISAutoAPI.API",
-        "projectPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAuto.Application\\CovaDISAuto.Application.csproj",
+        "projectName": "CovaDISAuto.Application",
+        "projectPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAuto.Application\\CovaDISAuto.Application.csproj",
         "packagesPath": "C:\\Users\\Mokou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\obj\\",
+        "outputPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAuto.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,12 +50,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

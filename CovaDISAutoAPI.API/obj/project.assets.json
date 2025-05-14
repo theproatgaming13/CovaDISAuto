@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mokou\\Source\\Repos\\CovaDISAuto\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
+      "projectUniqueName": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
       "projectName": "CovaDISAutoAPI.API",
-      "projectPath": "C:\\Users\\Mokou\\Source\\Repos\\CovaDISAuto\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
+      "projectPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\CovaDISAutoAPI.API.csproj",
       "packagesPath": "C:\\Users\\Mokou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mokou\\Source\\Repos\\CovaDISAuto\\CovaDISAutoAPI.API\\obj\\",
+      "outputPath": "C:\\Users\\Mokou\\Documents\\GitHub\\Covadis\\CovaDISAutoAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
