@@ -24,6 +24,8 @@ TestResults.xml
 .vs/
 
 /bin/
+bin/
 /obj/
+obj/
 *.cache
 *.json
