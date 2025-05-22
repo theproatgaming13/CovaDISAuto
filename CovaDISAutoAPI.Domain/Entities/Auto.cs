@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CovaDISAutoAPI.Domain.Entities
 {
-    internal class Auto
+    public class Auto
     {
     }
 }

@@ -15,4 +15,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CovaDISAutoAPI.Shared\CovaDISAutoAPI.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

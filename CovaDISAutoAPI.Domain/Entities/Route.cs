@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CovaDISAutoAPI.Domain.Entities
 {
-    public class Ritoverzicht
+    public class Route
     {
         public int ID { get; set; }
-        public int Kilometerstand_voor { get; set; }
-        public virtual Chauffeur? Chauffeur { get; set; }
-        public virtual Route? Route { get; set; }
+        public string beginAdres { get; set; }
+        public string eindAdres { get; set; }
+        public double afstand { get; set; }
     }
 }
