@@ -1,18 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace CovaDISAutoAPI.Domain.Entities
+namespace CovaDISAutoAPI.Shared.DTO.Auto
 {
-    public class Auto
+    internal class CreateAuto
     {
-        public int id { get; set; }
+        [Required]
+        [StringLength(50, MinimumLength = 3)]
+        [JsonPropertyName("auto")]
         public string? merk { get; set; }
         public string? type { get; set; }
         public string? kleur { get; set; }
-        public int medewerkerId { get; set; }
-        public Medewerker? medewerker { get; set; }
     }
 }
