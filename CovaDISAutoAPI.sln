@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Infrastuctur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Shared", "CovaDISAutoAPI.Shared\CovaDISAutoAPI.Shared.csproj", "{CCE70033-C8BC-4D09-B1E3-2E72971ACDC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovaDISAutoAPI.Blazor", "CovaDISAutoAPI.Blazor\CovaDISAutoAPI.Blazor.csproj", "{148D006B-2D1F-4E68-A8DA-397B040A1CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{CCE70033-C8BC-4D09-B1E3-2E72971ACDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE70033-C8BC-4D09-B1E3-2E72971ACDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE70033-C8BC-4D09-B1E3-2E72971ACDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148D006B-2D1F-4E68-A8DA-397B040A1CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148D006B-2D1F-4E68-A8DA-397B040A1CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148D006B-2D1F-4E68-A8DA-397B040A1CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148D006B-2D1F-4E68-A8DA-397B040A1CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
