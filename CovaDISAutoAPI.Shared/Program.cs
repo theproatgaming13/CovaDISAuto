@@ -1,4 +1,4 @@
-﻿namespace CovaDISAutoAPI.Domain
+﻿namespace CovaDISAutoAPI.Shared
 {
     internal class Program
     {
