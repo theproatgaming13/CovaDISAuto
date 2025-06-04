@@ -12,6 +12,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CovaDISAutoAPI.Application\CovaDISAutoAPI.Application.csproj" />
+    <ProjectReference Include="..\CovaDISAutoAPI.Client\CovaDISAutoAPI.Client.csproj" />
+    <ProjectReference Include="..\CovaDISAutoAPI.Domain\CovaDISAutoAPI.Domain.csproj" />
+    <ProjectReference Include="..\CovaDISAutoAPI.Infrastucture\CovaDISAutoAPI.Infrastucture.csproj" />
     <ProjectReference Include="..\CovaDISAutoAPI.Shared\CovaDISAutoAPI.Shared.csproj" />
   </ItemGroup>
 
